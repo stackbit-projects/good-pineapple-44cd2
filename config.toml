@@ -1,7 +1,7 @@
 baseURL = ""
 title = "CMASDEV"
 theme = "coder"
-languageCode = "sp"
+languageCode = "es"
 defaultContentLanguage = "es"
 paginate = 20
 pygmentsStyle = "b2"
